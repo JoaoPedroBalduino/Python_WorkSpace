@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu repositório de estudos em **Python**!  
 Aqui você vai encontrar diversos projetos simples que estou desenvolvendo enquanto aprendo e pratico a linguagem.
 
-![image](https://github.com/user-attachments/assets/fe3cfadc-c580-4f90-a094-041347be2c37)
+![image](https://github.com/user-attachments/assets/5af17b75-cb1c-4289-ad39-59c55a10caaf)
 
 
 ## 📚 Sobre
